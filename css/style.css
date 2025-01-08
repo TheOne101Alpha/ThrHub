@@ -1,0 +1,30 @@
+
+
+/*Header
+===========================================================================================================*/
+header{
+    background-color: #7da07d;
+    color: white;
+}
+
+nav li{
+    display: inline-block;
+}
+
+nav li a{
+    color: white;
+    font-size: 25px;
+    margin: 4px;
+}
+
+.flex-espace-entre{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.acceuil{
+    text-decoration: none;
+    color: white;
+}
+
